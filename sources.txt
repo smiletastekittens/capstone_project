@@ -1,0 +1,2 @@
+Bitcoin Historical Price: https://docs.cloud.coinbase.com/exchange/reference/exchangerestapi_getproductcandles
+Nominal Broad US Dollar Index: https://fred.stlouisfed.org/series/TWEXBGSMTH
